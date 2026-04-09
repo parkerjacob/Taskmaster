@@ -6,4 +6,5 @@
 # Features Implemented
 ## Add & Remove
 ### In the application, you can add tasks as well as remove them with the click of a button. 
-### Also, the tasks are user specific. Tasks are presented depending on the user associated with those tasks. 
+### Also, the tasks are user specific. Tasks are presented depending on the user associated with those tasks.
+### Overall, this application is user-friendly and useful, especially alongside the flashcard deck listed above.
